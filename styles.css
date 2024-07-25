@@ -1,0 +1,89 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero-section {
+    text-align: center;
+    padding: 100px 20px;
+    background: #f4f4f4;
+}
+
+.hero-section h1 {
+    margin: 0 0 20px;
+    font-size: 3em;
+    color: #333;
+}
+
+.hero-section p {
+    margin: 0 0 20px;
+    font-size: 1.2em;
+    color: #666;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1em;
+    color: #fff;
+    background: #0073e6;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.benefits-section {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.benefits-section h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.benefit {
+    margin: 20px 0;
+}
+
+.benefit h3 {
+    font-size: 1.5em;
+    color: #0073e6;
+}
+
+.benefit p {
+    font-size: 1em;
+    color: #666;
+}
+
+.cta-section {
+    text-align: center;
+    padding: 50px 20px;
+    background: #0073e6;
+    color: #fff;
+}
+
+.cta-section h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.cta-section p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #333;
+    color: #fff;
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9em;
+}
